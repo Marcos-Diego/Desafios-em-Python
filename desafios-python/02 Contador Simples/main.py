@@ -27,5 +27,5 @@ while commander != 1:
         print(visor)
         print("Isto não é um comando valido! Tente novamente")
         
-    commander = input('Qual o seu comando(+, -, sair)? ')
+    commander = input('Qual o seu comando(+, -, x2 ou reset)? ')
 
